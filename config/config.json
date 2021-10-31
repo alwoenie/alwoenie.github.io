@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x3a0eCDa6B2cC728952fA6db60cF94D0Ae3122FeF",
+  "SCAN_LINK": "https://etherscan.io/address/0x3a0ecda6b2cc728952fa6db60cf94d0ae3122fef",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Etherminators",
+  "SYMBOL": "ETHS",
+  "MAX_SUPPLY": 6969,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/etherminators",
+  "SHOW_BACKGROUND": false
+}
